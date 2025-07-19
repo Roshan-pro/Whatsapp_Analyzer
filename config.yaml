@@ -1,0 +1,24 @@
+data:
+  extract_path: "Extracted_data"
+  date_column: "Date"
+
+wordcloud:
+  width: 800
+  height: 400
+  background_color: "white"
+  stopwords:
+    - media
+    - omitted
+    - sticker
+    - gif
+    - image
+    - video
+    - file
+  colormap: "viridis"
+
+visuals:
+  color_palette: "coolwarm"
+  top_n_senders: 5
+
+chat:
+  default_zip_path: "chat.zip"
