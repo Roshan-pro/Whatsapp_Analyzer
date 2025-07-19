@@ -1,7 +1,7 @@
 seaborn
-matplotlib
 pandas
 numpy
+matplotlib
 wordcloud
 streamlit
 pyyaml
