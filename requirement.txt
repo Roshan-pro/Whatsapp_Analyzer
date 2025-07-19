@@ -5,3 +5,5 @@ matplotlib
 seaborn
 wordcloud
 pyyaml
+watchdog
+
