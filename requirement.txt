@@ -5,5 +5,3 @@ matplotlib
 seaborn
 wordcloud
 PyYAML
-watchdog
-
