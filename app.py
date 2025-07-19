@@ -1,8 +1,9 @@
 import streamlit as st
 import pandas as pd 
-import os
 import zipfile
 import yaml
+import os
+os.environ["STREAMLIT_SERVER_RUN_ON_SAVE"] = "false"
 
 from src.feature_enginnering import FeautreEng, SetDatesMonths
 from zip_data.unzipdata import Data, UnzipData
