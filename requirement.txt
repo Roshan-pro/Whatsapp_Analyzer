@@ -1,7 +1,7 @@
-seaborn
+streamlit
 pandas
 numpy
 matplotlib
+seaborn
 wordcloud
-streamlit
 pyyaml
