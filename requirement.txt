@@ -4,6 +4,5 @@ numpy
 matplotlib
 seaborn
 wordcloud
-PyYAML
 pyyaml
 watchdog
